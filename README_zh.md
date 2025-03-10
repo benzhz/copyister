@@ -47,7 +47,7 @@
 
 ④、你可以在你的文档里进行粘贴；
 
-![](https://cdn.nlark.com/yuque/0/2025/gif/38711469/1741601403290-b9542110-fa79-4abe-b22e-21221bb30474.gif)
+![](https://github.com/benzhz/copyister/blob/main/public/images/use.gif)
 
 ## 开发
 ### 技术栈
