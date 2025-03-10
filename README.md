@@ -41,7 +41,7 @@ Finished
 ③ Click the "Complete" button in the pop-up to finish copying.  
 ④ You can then paste the copied content into your document.
 
-![](https://cdn.nlark.com/yuque/0/2025/gif/38711469/1741601403290-b9542110-fa79-4abe-b22e-21221bb30474.gif)
+![](https://github.com/benzhz/copyister/blob/main/public/images/use.gif)
 
 ## Development
 ###   
