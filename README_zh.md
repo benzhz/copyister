@@ -1,3 +1,5 @@
+**Read this in other languages: [English](README.md), [中文](README_zh.md).**
+
 ## Introduction
   
 If you find long responses from large models overwhelming, and copying the content you need is time-consuming and cumbersome, I have developed this content extraction tool (Chrome extension) to help you easily extract key information.  
