@@ -1,3 +1,5 @@
+**Read this in other languages: [English](README.md), [中文](README_zh.md).**
+
 ## Introduction
   
 If you find long responses from large models overwhelming, and copying the content you need is time-consuming and cumbersome, I have developed this content extraction tool (Chrome extension) to help you easily extract key information.  
@@ -17,7 +19,20 @@ The operation is similar to highlighting important points in textbooks. You can 
 ## Demonstration
 ###   
 Installation
+![](https://cdn.nlark.com/yuque/0/2025/png/38711469/1741603882602-70feddc7-51e1-49bb-8624-4aaaf58164e9.png)
 
+![](https://cdn.nlark.com/yuque/0/2025/png/38711469/1741603903674-5ca1b94b-8b1b-4006-a0a2-ff13190f1135.png)
+
+Open Chrome, type "chrome://extensions/" and press Enter.  
+![](https://cdn.nlark.com/yuque/0/2025/png/38711469/1741604537280-dd65f973-7e2d-4160-a13a-7fed7d728e9b.png)
+
+Select the folder you extracted.
+
+![](https://cdn.nlark.com/yuque/0/2025/png/38711469/1741604278059-2d794f1a-f02f-4803-83e8-c90df982da23.png)
+
+Finished 
+
+![](https://cdn.nlark.com/yuque/0/2025/png/38711469/1741604333587-8bc748e1-73a4-440f-a1cf-59f37b142f6d.png)
 
 ### Usage
   

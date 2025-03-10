@@ -1,63 +1,80 @@
 **Read this in other languages: [English](README.md), [中文](README_zh.md).**
 
-## Introduction
-  
-If you find long responses from large models overwhelming, and copying the content you need is time-consuming and cumbersome, I have developed this content extraction tool (Chrome extension) to help you easily extract key information.  
-The operation is similar to highlighting important points in textbooks. You can mark content line by line, precisely identify the key information, and with one click, copy the selected content. This is perfect for quickly applying to document writing, report preparation, and other scenarios. The interface is simple and intuitive, with no complicated procedures, making it easy to use.
+## 简介
 
-## Usage Instructions
-1. **Download and Launch**: Download the tool from this repository, extract it, and install the Chrome extension.
-2. **Paste Content**: Paste the full response given by the large model into the tool's input box.
-3. **Mark and Copy**: Check the lines you consider important, and once you're done, click the "Copy" button to copy the selected content to your clipboard.
+如果你与大模型交流，得到的冗长回答常常让人苦恼，复制你需要内容耗时又费力。为此，我开发了这个内容摘取复制工具（chrome插件），助你轻松提取关键信息。
 
-## Application Scenarios
-  
-• **Academic Research**: Quickly extract core points from the large model’s knowledge explanations for literature reviews.  
-• **Work Reports**: Extract key data and conclusions from the industry analysis provided by the large model.  
-• **Daily Learning**: Extract key points from the large model’s answers to assist with note-taking during learning.
+操作类似课本画重点的方式，支持你逐行标记所需内容，精准圈定关键信息，完成标记后，一键即可复制选中内容，方便快速应用到文档撰写、报告整理等场景。界面简洁直观，无复杂操作流程，轻松上手。
 
-## Demonstration
-###   
-Installation
+## 使用方法
+1. 下载与启动：从本仓库下载工具程序，解压，谷歌浏览器安装插件。  
+2. 粘贴内容：将大模型给出的回答完整粘贴到工具的输入框内。
+3. 标记复制：逐行勾选你认为是重点的内容，完成后点击复制按钮，即可将选中内容复制到剪贴板。
+
+## 应用场景
+• 学术研究：快速从大模型的知识讲解中提取核心观点用于文献综述。
+
+• 工作汇报：从大模型提供的行业分析里摘取关键数据和结论。
+
+• 日常学习：在大模型解答学习问题时，提取要点辅助笔记整理 。
+
+## 演示
+### 安装
+![](https://cdn.nlark.com/yuque/0/2025/png/38711469/1741603882602-70feddc7-51e1-49bb-8624-4aaaf58164e9.png)
+
+![](https://cdn.nlark.com/yuque/0/2025/png/38711469/1741603903674-5ca1b94b-8b1b-4006-a0a2-ff13190f1135.png)
+
+打开chrome，输入chrome://extensions/ ，按enter
+
+![](https://cdn.nlark.com/yuque/0/2025/png/38711469/1741604521228-5720e80a-0d12-4f39-912f-12ff8e46a71e.png)
+
+选择你解压的文件夹
+
+![](https://cdn.nlark.com/yuque/0/2025/png/38711469/1741604278059-2d794f1a-f02f-4803-83e8-c90df982da23.png)
+
+安装完成
+
+![](https://cdn.nlark.com/yuque/0/2025/png/38711469/1741604333587-8bc748e1-73a4-440f-a1cf-59f37b142f6d.png)
 
 
-### Usage
-  
-① After installing the plugin, open the page from which you want to copy content, press **Ctrl+Shift+C**, and a small pop-up window will appear in the bottom-right corner of the browser (can be dragged and moved).  
-② Select the text on the page, and it will be highlighted and recorded in the small pop-up.  
-③ Click the "Complete" button in the pop-up to finish copying.  
-④ You can then paste the copied content into your document.
+
+### 使用
+①、安装完插件，打开你要复制内容的页面，按下ctrl+shift+c键，在浏览器窗口的右下角会弹出小弹窗（拖拽可移动）；
+
+②、在页面上选取文本，会高亮文本，并记录在小弹窗，
+
+③、点击小弹窗complete按钮，完成一次复制；
+
+④、你可以在你的文档里进行粘贴；
 
 ![](https://cdn.nlark.com/yuque/0/2025/gif/38711469/1741601403290-b9542110-fa79-4abe-b22e-21221bb30474.gif)
 
-## Development
-###   
-Tech Stack
-+ Vite
-+ React
-+ Ant Design
+## 开发
+### 技术栈
+vite、react、antd
 
-### Development Environment
-+ Node: v20.18.1
-+ pnpm: v10.5.1
+### 开发环境
+<font style="color:rgb(31, 35, 40);">node：v20.18.1</font>
 
-**Install Dependencies**
+<font style="color:rgb(31, 35, 40);">pnpm ：10.5.1</font>
 
-```plain
++ **<font style="color:rgb(31, 35, 40);">安装依赖</font>**
+
+```bash
 pnpm install
 ```
 
-**Run**
++ **<font style="color:rgb(31, 35, 40);">运行</font>**
 
-```plain
+```bash
 pnpm dev
 ```
 
-**Build**
++ **<font style="color:rgb(31, 35, 40);">打包</font>**
 
-```plain
+```bash
 pnpm build
 ```
 
-If you encounter any issues or have suggestions during usage, feel free to submit issues, and let's work together to make this tool even more useful!
+如果你在使用过程中有任何问题或建议，欢迎提交Issues，让我们一起让这个工具更实用！
 
